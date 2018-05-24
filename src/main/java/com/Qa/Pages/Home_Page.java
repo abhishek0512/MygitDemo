@@ -8,6 +8,10 @@ public class Home_Page {
 		
 	}
 
+	public void Creat(){
+		
+		System.out.println("This is my first create method...");
+	}
 	
 	
 }
