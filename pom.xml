@@ -1,0 +1,29 @@
+<project xmlns="http://maven.apache.org/pom/4.0.0" xmlns:xsi="http://www.w3.org/2001/xmlschema-instance"
+	xsi:schemalocation="http://maven.apache.org/pom/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelversion>4.0.0</modelversion>
+
+	<groupid>demogitrepo</groupid>
+	<artifactid>demogitrepo</artifactid>
+	<version>0.0.1-snapshot</version>
+	<packaging>jar</packaging>
+
+	<name>demogitrepo</name>
+	<url>http://maven.apache.org</url>
+
+	<properties>
+		<project.build.sourceencoding>utf-8</project.build.sourceencoding>
+	</properties>
+
+	<dependencies>
+		
+
+		<dependency>
+			<groupid>org.testng</groupid>
+			<artifactid>testng</artifactid>
+			<version>6.8</version>
+			<scope>test</scope>
+		</dependency>
+
+
+	</dependencies>
+</project>
